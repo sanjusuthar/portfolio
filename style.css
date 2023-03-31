@@ -204,7 +204,7 @@ body {
 .activities-list div {
     background: #262626;
     padding: 10px;
-    font-size: 20px;
+    font-size: 14px;
     font-weight: 300;
     border-radius: 10px;
     transition: background 0.5s, transform 0.5s;
